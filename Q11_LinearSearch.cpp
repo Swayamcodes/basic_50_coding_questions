@@ -37,6 +37,8 @@ int main() {
     cout << "Enter element to search: ";
     cin >> key;
 
+    
+
     bool found = false; // flag to track if key is found
     int index = -1;     // store index if found
 
